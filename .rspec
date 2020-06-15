@@ -1,3 +1,7 @@
 --color
 --require spec_helper
 --fail-fast
+
+    h1 {
+      color: red;
+    }
